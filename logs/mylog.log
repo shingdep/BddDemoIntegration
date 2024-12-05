@@ -1,0 +1,33 @@
+[INFO ] 2024-12-01 20:00:27.553 [main] StepDefination - Browser is launched
+[INFO ] 2024-12-01 20:00:37.429 [main] StepDefination - Url is opened
+[INFO ] 2024-12-01 20:00:38.721 [main] StepDefination - Elements section is clicked
+[WARN ] 2024-12-01 20:00:40.774 [main] StepDefination - Page title is displayed
+[INFO ] 2024-12-01 20:00:42.991 [main] StepDefination - webtable menu is clicked
+[INFO ] 2024-12-01 20:00:45.286 [main] StepDefination - Firstname is entered in text field
+[INFO ] 2024-12-01 20:00:47.420 [main] StepDefination - Search button is clicked
+[WARN ] 2024-12-01 20:00:50.795 [main] StepDefination - Not Able to find name in webtable
+[INFO ] 2024-12-01 20:00:54.045 [main] StepDefination - Browser is closed
+[INFO ] 2024-12-01 20:00:55.402 [main] StepDefination - Browser is launched
+[INFO ] 2024-12-01 20:01:01.833 [main] StepDefination - Url is opened
+[INFO ] 2024-12-01 20:01:03.098 [main] StepDefination - Elements section is clicked
+[WARN ] 2024-12-01 20:01:05.142 [main] StepDefination - Page title is displayed
+[INFO ] 2024-12-01 20:01:08.359 [main] StepDefination - check box menu is clicked
+[INFO ] 2024-12-01 20:01:10.523 [main] StepDefination - check box is clicked
+[WARN ] 2024-12-01 20:01:10.528 [main] StepDefination - Text is displayed after clicking checkbox
+[INFO ] 2024-12-01 20:01:13.789 [main] StepDefination - Browser is closed
+[INFO ] 2024-12-01 20:16:19.753 [main] StepDefination - Browser is launched
+[INFO ] 2024-12-01 20:16:27.754 [main] StepDefination - Url is opened
+[INFO ] 2024-12-01 20:16:29.033 [main] StepDefination - Elements section is clicked
+[WARN ] 2024-12-01 20:16:31.080 [main] StepDefination - Page title is displayed
+[INFO ] 2024-12-01 20:16:33.535 [main] StepDefination - webtable menu is clicked
+[INFO ] 2024-12-01 20:16:35.799 [main] StepDefination - Firstname is entered in text field
+[INFO ] 2024-12-01 20:16:37.950 [main] StepDefination - Search button is clicked
+[WARN ] 2024-12-01 20:16:41.349 [main] StepDefination - Not Able to find name in webtable
+[INFO ] 2024-12-01 20:16:44.619 [main] StepDefination - Browser is closed
+[INFO ] 2024-12-01 20:16:46.263 [main] StepDefination - Browser is launched
+[INFO ] 2024-12-01 20:16:55.499 [main] StepDefination - Url is opened
+[INFO ] 2024-12-01 20:16:56.823 [main] StepDefination - Elements section is clicked
+[WARN ] 2024-12-01 20:16:58.852 [main] StepDefination - Page title is displayed
+[INFO ] 2024-12-01 20:17:02.042 [main] StepDefination - check box menu is clicked
+[INFO ] 2024-12-01 20:17:04.195 [main] StepDefination - check box is clicked
+[WARN ] 2024-12-01 20:17:04.204 [main] StepDefination - Text is not displayed after clicking checkbox
