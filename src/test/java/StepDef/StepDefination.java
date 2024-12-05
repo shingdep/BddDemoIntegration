@@ -12,6 +12,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import Pom.ClickCheckBox;
 import Pom.searchByName;
 import io.cucumber.java.After;
+import io.cucumber.java.AfterStep;
 import io.cucumber.java.Scenario;
 import io.cucumber.java.en.*;
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -192,6 +193,17 @@ public class StepDefination
 			
 		}
 		driver.quit();
+	}
+	
+	@AfterStep
+	public void teardown(Scenario sc)
+	{
+		//if(sc.isFailed())
+		{
+			final byte[] ss=((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES);
+			sc.attach(ss, "image/png", sc.getName());
+		}
+	
 	}
 
 }

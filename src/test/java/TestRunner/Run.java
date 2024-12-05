@@ -12,7 +12,8 @@ import io.cucumber.junit.CucumberOptions;
 		glue="StepDef",
 		dryRun = false,
 		monochrome = true,
-		plugin= {"pretty","html:target/cucumber-reports1.html"}
+		//plugin= {"pretty","html:target/cucumber-reports1.html"}
+		plugin= {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"}
 	
 		)
 public class Run 

@@ -31,3 +31,26 @@
 [INFO ] 2024-12-01 20:17:02.042 [main] StepDefination - check box menu is clicked
 [INFO ] 2024-12-01 20:17:04.195 [main] StepDefination - check box is clicked
 [WARN ] 2024-12-01 20:17:04.204 [main] StepDefination - Text is not displayed after clicking checkbox
+[INFO ] 2024-12-05 23:19:56.325 [main] StepDefination - Browser is launched
+[INFO ] 2024-12-05 23:20:00.101 [main] StepDefination - Browser is launched
+[INFO ] 2024-12-05 23:23:59.673 [main] StepDefination - Browser is launched
+[INFO ] 2024-12-05 23:24:03.645 [main] StepDefination - Browser is launched
+[INFO ] 2024-12-05 23:28:22.310 [main] StepDefination - Browser is launched
+[INFO ] 2024-12-05 23:28:26.123 [main] StepDefination - Browser is launched
+[INFO ] 2024-12-05 23:33:19.972 [main] StepDefination - Browser is launched
+[INFO ] 2024-12-05 23:33:39.534 [main] StepDefination - Url is opened
+[INFO ] 2024-12-05 23:33:41.114 [main] StepDefination - Elements section is clicked
+[WARN ] 2024-12-05 23:33:43.676 [main] StepDefination - Page title is displayed
+[INFO ] 2024-12-05 23:33:46.291 [main] StepDefination - webtable menu is clicked
+[INFO ] 2024-12-05 23:33:49.024 [main] StepDefination - Firstname is entered in text field
+[INFO ] 2024-12-05 23:33:51.527 [main] StepDefination - Search button is clicked
+[WARN ] 2024-12-05 23:33:55.267 [main] StepDefination - Not Able to find name in webtable
+[INFO ] 2024-12-05 23:33:58.809 [main] StepDefination - Browser is closed
+[INFO ] 2024-12-05 23:34:00.878 [main] StepDefination - Browser is launched
+[INFO ] 2024-12-05 23:34:08.283 [main] StepDefination - Url is opened
+[INFO ] 2024-12-05 23:34:09.834 [main] StepDefination - Elements section is clicked
+[WARN ] 2024-12-05 23:34:12.387 [main] StepDefination - Page title is displayed
+[INFO ] 2024-12-05 23:34:15.867 [main] StepDefination - check box menu is clicked
+[INFO ] 2024-12-05 23:34:18.291 [main] StepDefination - check box is clicked
+[WARN ] 2024-12-05 23:34:18.596 [main] StepDefination - Text is displayed after clicking checkbox
+[INFO ] 2024-12-05 23:34:22.160 [main] StepDefination - Browser is closed
